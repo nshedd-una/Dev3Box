@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+}
+
+#containerBox{
+  position: fixed;
+  top: 0px;
+  left: 100px;
+  height: 100px;
+  width: 80px;
+  
+}
+
+#containerBox{
+  position: fixed;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+  background-color: #673AB7
+  
+}
+
+#contentBox{
+  position: fixed;
+  margin: auto;
+  border: solid 1px purple;
+  margin: 37px;
+  padding: 14px;
+  width: 200px;
+}
+
+.floatBox{
+  height: 50px;
+  width: 50px;
+  background-color: tomato;
+  float: left;
+  clear: ;
+  padding: 10px;
+  margin-left: 4px;
+  
+}
+
+ #clearbox
+{
+  clear: right;
+  overflow: auto;
+}
